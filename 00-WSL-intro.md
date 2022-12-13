@@ -16,7 +16,7 @@
 
 ---
 
-## Setup - Enable Windows Subsystem for Linux <small>Part 1/2</small>
+## Setup - Enable Windows Subsystem for Linux <small>Part 1/3</small>
 
 1. Open PowerShell as an admin.
    - On the Start menu, type PowerShell to pull up the desktop app.
@@ -33,7 +33,7 @@
 
 ---
 
-## Setup - Install a Linux Distribution <small>Part 2/2</small>
+## Setup - Install a Linux Distribution <small>Part 2/3</small>
 
 > :link: [List of WSL Basic Commands](https://learn.microsoft.com/en-us/windows/wsl/basic-commands)
 
@@ -55,7 +55,11 @@
    ```bash
    wsl --list --online
    ```
-
+   
+---
+   
+## Setup - Install a Linux Distribution <small>Part 3/3</small>
+   
 4. Install for example ("latest") Ubuntu:
 
    ```bash
