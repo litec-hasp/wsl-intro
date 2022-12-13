@@ -55,9 +55,9 @@
    ```bash
    wsl --list --online
    ```
-   
+
 ---
-   
+
 ## Setup - Install a Linux Distribution <small>Part 3/3</small>
    
 4. Install for example ("latest") Ubuntu:
