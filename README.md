@@ -12,4 +12,5 @@ For information on how to setup the slides (local and github-pages) see [reveal-
 
 # Installation
 
-<https://www.freecodecamp.org/news/how-to-install-wsl2-windows-subsystem-for-linux-2-on-windows-10/>
+- <https://cloudbytes.dev/snippets/how-to-install-wsl2-on-windows-1011>
+- <https://www.freecodecamp.org/news/how-to-install-wsl2-windows-subsystem-for-linux-2-on-windows-10/>
